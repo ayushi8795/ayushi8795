@@ -1,5 +1,5 @@
-# I moved GitHub profile
+# I moved GitHub profiles
 
 My active GitHub profile is now here:
 
-[https://github.com/newusername](https://github.com/ayushivagrawal)
+https://github.com/ayushivagrawal
